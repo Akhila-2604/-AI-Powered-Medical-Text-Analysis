@@ -34,3 +34,8 @@ Uses Google's Gemini AI to extract medical entities more efficiently.
   Entities (Drugs, Diseases, Study Names)
   Topic Classification
   Sentiment Analysis
+Potential Use Cases:
+✔ Pharmaceutical Companies - Track discussions about new drugs.
+✔ Medical Researchers - Monitor study mentions and public opinion.
+✔ Healthcare Analysts - Understand sentiment around treatments.
+✔ Social Media Monitoring - Identify trends in disease discussions.
